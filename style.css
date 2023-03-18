@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.foo{
+   background-color: #223A66;
+   height: 10vh;
+}
+.koo{
+    height: 10vh;
+      color: white;
+   
+}
+.logo{
+    width: 20%;
+}
+.boo{
+    height: 80vh;
+    background-image: url(images/slider-bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ait{
+    width: 50%;
+}
+.go{
+    border-radius: 20px !important;
+    width: 16% !important;
+    height: 6vh !important;
+}
+.color{
+    width: 10%;
+    height: 5vh;
+    background-color: blue;
+    border: none;
+}
+.vip{
+    line-height: 40%;
+}
+.hoo{
+    color: #223A66;
+}
+.in{
+    font-size: 64px;
+}
+.sevi{
+    height: 60vh;
+    background-color: white;
+    margin: 20px;
+    margin-top: -44px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3)
+
+}
+.bo{
+    border-radius: 10px !important;
+   
+}
+.mon{
+    font-size: 20px;
+}
+.to{
+    width: 80%;
+}
+.mtn{
+    height: 100vh;
+    background-color: white;
+}
+.mt{
+    height: 100vh;
+    background-color: white;
+}
+.im{
+    width: 44%;
+    padding-bottom: 30%;
+    border-radius: 10px;
+}
+.ime{
+    width: 190%;
+    padding-top: -40%;
+    border-radius: 10px;
+}
+.imt{
+    width: 120%;
+    margin-top: -90%;
+    border-radius: 10px;
+
+}
+.ayo{
+    padding-top: 45%;
+    padding-left: 20%;
+}
+.ay{
+    padding-left:20% ;
+}
+.yo{
+    margin-left: 20%;
+}
+.inte{
+    margin-top: 20px;
+    height: 30vh;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.hp{
+    background-color: #F4F9FC;
+    height: 100vh;
+}
+.rccg{
+    width: 50%;
+    color: #223A66;
+}
+.loop{
+    height: 100vh;
+    background-color:#FFFFFF;
+}
+.top{
+    height: 100vh;
+    background-color: #FFFFFF;
+}
+.h4{
+    width: 100%;
+}
+.we{
+  background-color: #F4F9FC;   
+}
+.op{
+    background-color:#F4F9FC;
+    height: 80vh;
+}
+.ten{
+    height: 50vh;
+    background-color: white;
+}
+.te{
+    border-radius: 100%;
+}
+.gotv{
+    height: 70vh;
+    background-color:white;
+}
+.vono{
+    height: 50vh;
+    background-color: #F4F9FC;
+}
+.do{
+    background-color: #F4F9FC;
+    height: 50vh;
+    color: #223A66;
+}
+.lo{
+ width: 50%;
+ margin-top: 30%;
+}
+.cor{
+    background-color: #F4F9FC;
+}
+.bcc{
+    height: 10vh;
+    background-color:#F4F9FC;
+}
+.ro{
+    background-color: #F4F9FC;
+}
